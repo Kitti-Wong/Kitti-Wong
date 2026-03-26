@@ -10,7 +10,7 @@ I enjoy exploring edge cases, validating system behavior, and making sure things
 ## 🧪 What I do:
 
 - Design test scenarios beyond just happy paths  
-- Perform manual, API, and performance testing  
+- Perform manual, automate, API, and performance testing  
 - Build automation to support regression testing  
 - Investigate issues and track defects clearly  
 - Work closely with developers and cross-functional teams  
