@@ -7,7 +7,7 @@ Focused on building reliable systems through thoughtful testing, not just checki
 
 ## 🧪 What I do
 
-I work on testing complex systems — from enterprise platforms to games —  
+I work on testing complex systems — from enterprise platforms and games —  
 making sure everything works as expected (and when it doesn't, I find out why).
 
 - Design meaningful test scenarios, not just happy paths
@@ -22,6 +22,7 @@ making sure everything works as expected (and when it doesn't, I find out why).
 
 **Testing**
 - Manual Testing
+- Automate Testing
 - Exploratory Testing
 - Regression Testing
 - API & Performance Testing
