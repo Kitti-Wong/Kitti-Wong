@@ -1,11 +1,13 @@
-## 👋 About Me
+# 👋 Hey, I'm Kittiphong
+---
+## About Me:
 
 QA Engineer with a focus on building reliable systems through thoughtful testing.  
 I enjoy exploring edge cases, validating system behavior, and making sure things work the way they *should* — and also when they don’t.
 
 ---
 
-## 🧪 What I do
+## 🧪 What I do:
 
 - Design test scenarios beyond just happy paths  
 - Perform manual, API, and performance testing  
@@ -15,7 +17,7 @@ I enjoy exploring edge cases, validating system behavior, and making sure things
 
 ---
 
-## 🧠 QA Mindset
+## 🧠 QA Mindset:
 
 - Think like a user  
 - Understand like a developer  
@@ -23,7 +25,7 @@ I enjoy exploring edge cases, validating system behavior, and making sure things
 
 ---
 
-## ⚡ Highlights
+## ⚡ Highlights:
 
 - Experience in both enterprise systems and game testing  
 - Built automation scripts to improve testing efficiency  
